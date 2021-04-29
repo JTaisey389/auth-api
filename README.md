@@ -6,6 +6,8 @@
 
 ### Links and Resources
 
+[Pull Request](https://github.com/JTaisey389/auth-api/pull/1)
+
 TODO HEROKU
 
 ### Setup
